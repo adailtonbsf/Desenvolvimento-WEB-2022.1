@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "Jefferson de Carvalho",
+      "course": "Sistemas de Informação",
+      "ira": 6.7
+    },
+    {
+      "id": 1,
+      "name": "Fulano de Tal",
+      "course": "Sistemas de Informação",
+      "ira": 9
+    },
+    {
+      "id": 2,
+      "name": "Sicrano de Tal",
+      "course": "Sistemas de Informação",
+      "ira": 5.8
+    },
+    {
+      "id": 3,
+      "name": "Beltrano de Tal",
+      "course": "Sistemas de Informação",
+      "ira": 4.6
+    },
+    {
+      "name": "Adailton",
+      "course": "CC",
+      "ira": "10",
+      "id": 4
+    }
+  ],
+  "professors": [
+    {
+      "id": 0,
+      "name": "Jefferson de Carvalho",
+      "university": "UFC",
+      "degree": "PhD"
+    },
+    {
+      "id": 1,
+      "name": "Fulano de Tal",
+      "university": "UFC",
+      "degree": "PhD"
+    },
+    {
+      "id": 2,
+      "name": "Sicrano de Tal",
+      "university": "UFC",
+      "degree": "PhD"
+    },
+    {
+      "id": 3,
+      "name": "Beltrano de Tal",
+      "university": "UFC",
+      "degree": "PhD"
+    }
+  ]
+}
